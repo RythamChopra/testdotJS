@@ -32,6 +32,38 @@ let someNumberToString = String(someNumber) ;
 // console.log(typeof someNumberToString);
 // console.log(someNumberToString);
 
+//Operations :
+
+let value = 3 ;
+negValue = -value ;
+console.log(negValue) ; 
+
+
+//Study prefix , postfix operators.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
